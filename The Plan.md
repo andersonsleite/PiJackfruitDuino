@@ -17,3 +17,5 @@ We will also try to reuse as much as possible the great knowledge from other peo
 and optimise the project. 
 
 Proper credits will be provided.
+
+![The Plan Diagram](https://github.com/andersonsleite/PiJackfruitDuino/blob/master/ThePlanDiagram.png)
