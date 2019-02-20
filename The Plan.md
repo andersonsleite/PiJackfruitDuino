@@ -1,6 +1,6 @@
 # The Plan
 
-The plan behinf this project is to create an easy, inexpensive and reliable smart home ecosystem. 
+The plan behind this project is to create an easy, inexpensive and reliable smart home ecosystem. 
 
 To do that you will need to prepare your home network, install a server what will be the brain of 
 your home and build your own sensors or integrate with the existing sensors in the market.
