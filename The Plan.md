@@ -18,4 +18,4 @@ and optimise the project.
 
 Proper credits will be provided.
 
-![The Plan Diagram](https://github.com/andersonsleite/PiJackfruitDuino/blob/master/ThePlanDiagram.png)
+![The Plan Diagram](ThePlanDiagram.png)
